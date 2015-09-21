@@ -7,10 +7,10 @@
 jQuery(document).ready(function() {
     jQuery('.sub-menu a').on('click', function(e)  {
         var currentAttrValue = jQuery(this).attr('href');
- 		
+
         // Show/Hide Tabs
         jQuery(currentAttrValue).show().siblings().hide();
- 
+
         e.preventDefault();
     });
 });
@@ -20,12 +20,12 @@ jQuery(document).ready(function() {
  <div class="menu-wrap">
     <nav class="menu">
         <ul class="clearfix">
-           
+
             <li>
                 <a href="#">Community Groups <span class="arrow">&#9660;</span></a>
- 
+
                 <ul class="sub-menu">
-                    
+
                     <li><a href="#tab2">1-Up</a></li>
                     <li><a href="#tab3">Choir</a></li>
                     <li><a href="#tab4">Committee</a></li>
@@ -39,31 +39,40 @@ jQuery(document).ready(function() {
                      <li><a href="#tab12">Thursday Homegroup</a></li>
                      <li><a href="#tab13">Welcome Team</a></li>
                      <li><a href="#tab14">Young Women's Housegroup</a></li>
-                    
+
                 </ul>
             </li>
         </ul>
     </nav>
-        
+
 </div>
 
     <div>
       <div class="tab-content">
         <div id="tab1" class="tab active">
             <p>Use the menu above to view more information about our various community groups</p>
-           
+
         </div>
- 
-        <div id="tab2" class="tab">
-            <p>Tab #2 content goes here!</p>
-            <p>Donec pulvinar neque sed semper lacinia. Curabitur lacinia ullamcorper nibh; quis imperdiet velit eleifend ac. Donec blandit mauris eget aliquet lacinia! Donec pulvinar massa interdum risus ornare mollis. In hac habitasse platea dictumst. Ut euismod tempus hendrerit. Morbi ut adipiscing nisi. Etiam rutrum sodales gravida! Aliquam tellus orci, iaculis vel.</p>
-        </div>
- 
+
         <div id="tab3" class="tab">
+            	<table style="width:100%">
+                    <tr>
+                    <td><h3>Choir</h3></tr>
+                    </tr>
+                      <tr>
+                        <td class="text"><p>The Choir meets in the church weekly on Wednesdays in preparation for worship on Sundays and it’s open to anyone who enjoys singing.</p>
+                                                          <p> The men’s voice choir meets on occasional Thursdays throughout the year. Speak to Allan for the latest information. </p>
+                    </td>
+                        <td><a data-flickr-embed="true"  href="https://www.flickr.com/photos/136426695@N08/20977987763/in/dateposted-public/" title="Choir"><img src="https://farm1.staticflickr.com/566/20977987763_bc9e3dd783.jpg" width="500" height="375" alt="Choir"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></td>
+                      </tr>
+                    </table>
+        </div>
+
+        <div id="tab2" class="tab">
             <p>Tab #3 content goes here!</p>
             <p>Donec pulvinar neque sed semper lacinia. Curabitur lacinia ullamcorper nibh; quis imperdiet velit eleifend ac. Donec blandit mauris eget aliquet lacinia! Donec pulvinar massa interdum ri.</p>
         </div>
- 
+
         <div id="tab4" class="tab">
             <p>Tab #4 content goes here!</p>
             <p>Donec pulvinar neque sed semper lacinia. Curabitur lacinia ullamcorper nibh; quis imperdiet velit eleifend ac. Donec blandit mauris eget aliquet lacinia! Donec pulvinar massa interdum risus ornare mollis. In hac habitasse platea dictumst. Ut euismod tempus hendrerit. Morbi ut adipiscing nisi. Etiam rutrum sodales gravida! Aliquam tellus orci, iaculis vel.</p>
@@ -77,9 +86,20 @@ jQuery(document).ready(function() {
             <p>Donec pulvinar neque sed semper lacinia. Curabitur lacinia ullamcorper nibh; quis imperdiet velit eleifend ac. Donec blandit mauris eget aliquet lacinia! Donec pulvinar massa interdum risus ornare mollis. In hac habitasse platea dictumst. Ut euismod tempus hendrerit. Morbi ut adipiscing nisi. Etiam rutrum sodales gravida! Aliquam tellus orci, iaculis vel.</p>
         </div>
 		<div id="tab7" class="tab">
-            <p>Tab #7 content goes here!</p>
-            <p>Donec pulvinar neque sed semper lacinia. Curabitur lacinia ullamcorper nibh; quis imperdiet velit eleifend ac. Donec blandit mauris eget aliquet lacinia! Donec pulvinar massa interdum risus ornare mollis. In hac habitasse platea dictumst. Ut euismod tempus hendrerit. Morbi ut adipiscing nisi. Etiam rutrum sodales gravida! Aliquam tellus orci, iaculis vel.</p>
-        </div>
+		<table style="width:100%">
+        <tr>
+        <td><h3>Friendship Club</h3></tr>
+        </tr>
+          <tr>
+            <td class="text"><p>For the past 35 years The Friendship Club has provided a meeting place for the residents of Belhelvie parish. Members are 50+ and meet in the lounge of Eigie House in Balmedie on alternate Tuesday afternoons from 2-4pm. A very varied programme is enjoyed which includes illustrated talks, musical entertainment, whist, dominoes, bingo, beetle drives and quizzes.
+
+                               <p> A summer outing and a Christmas Party are also enjoyed, and our regular meetings always finish off with a welcome cup of tea and a biscuit, followed by a raffle.<p>We charge 50p per week and have a tuck shop, which makes a small profit.  The money we take in is used to pay for resources such as teaching materials, craft materials and equipment and prizes for the end of session Gift Service.  </p>
+</p>
+        </td>
+            <td><a data-flickr-embed="true"  href="https://www.flickr.com/photos/136426695@N08/21411010070/in/dateposted-public/" title="Kirk Klub 2009"><img src="https://farm1.staticflickr.com/645/21411010070_14aa4f4394.jpg" width="500" height="375" alt="Kirk Klub 2009"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></td>
+          </tr>
+        </table>
+             </div>
 		<div id="tab8" class="tab">
 <table style="width:100%">
 <tr>
@@ -92,9 +112,9 @@ jQuery(document).ready(function() {
 
 <p>KK also go collecting for Christian Aid every year and finish up after a chilly night with chips at the Forsyth hall.  We have also had film and pizza nights, barbecues, trips to the cinema and to the panto.</p>
 </td>
-    <td><a data-flickr-embed="true"  href="https://www.flickr.com/photos/136426695@N08/21411010070/in/dateposted-public/" title="Kirk Klub 2009"><img src="https://farm1.staticflickr.com/645/21411010070_14aa4f4394.jpg" width="500" height="375" alt="Kirk Klub 2009"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></td>		
+    <td><a data-flickr-embed="true"  href="https://www.flickr.com/photos/136426695@N08/21411010070/in/dateposted-public/" title="Kirk Klub 2009"><img src="https://farm1.staticflickr.com/645/21411010070_14aa4f4394.jpg" width="500" height="375" alt="Kirk Klub 2009"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></td>
   </tr>
-</table>            
+</table>
 			</div>
 		<div id="tab9" class="tab">
             <p>Tab #9 content goes here!</p>
@@ -126,61 +146,61 @@ jQuery(document).ready(function() {
 <style>
 
 body {
-    
+
 }
   .tab-content {
         padding:50px;
         border-radius:3px;
         background:#fff;
     }
- 
+
         .tab {
             display:none;
         }
- 
+
         .tab.active {
             display:block;
         }
- 
+
 .clearfix:after {
     display:block;
     clear:both;
 }
- 
+
 /*----- Menu Outline -----*/
 .menu-wrap {
     width:100%;
     box-shadow:0px 1px 3px rgba(0,0,0,0.2);
     background:#f1f1f1;
 }
- 
+
 .menu {
-    
+
     margin:0px;
 }
- 
+
 .menu li {
     margin:0px;
     list-style:none;
     font-family:'Raleway';
 }
- 
+
 .menu a {
     transition:all linear 0.15s;
     color:#3399ff;
     text-decoration:none;
 }
- 
+
 .menu li:hover > a, .menu .current-item > a {
     text-decoration:none;
     color:#666666;
 }
- 
+
 .menu .arrow {
     font-size:11px;
     line-height:0%;
 }
- 
+
 /*----- Top Level -----*/
 .menu > ul > li {
     float:left;
@@ -188,23 +208,23 @@ body {
     position:relative;
     font-size:23px;
 }
- 
+
 .menu > ul > li > a {
     padding:10px 10px;
     display:inline-block;
-   
+
 }
- 
+
 .menu > ul > li:hover > a, .menu > ul > .current-item > a {
 
 }
- 
+
 /*----- Bottom Level -----*/
 .menu li:hover .sub-menu {
     z-index:1;
     opacity:1;
 }
- 
+
 .sub-menu {
     width:100%;
     padding:5px 0px;
@@ -217,19 +237,19 @@ body {
     box-shadow:0px 2px 3px rgba(0,0,0,0.2);
     background:#f1f1f1;
 }
- 
+
 .sub-menu li {
     display:block;
     font-size:16px;
 }
- 
+
 .sub-menu li a {
     padding:10px 30px;
     display:block;
 }
- 
+
 .sub-menu li a:hover, .sub-menu .current-item a {
-    
+
 }
 .tab{
     font-family:'Raleway';
@@ -246,3 +266,6 @@ body {
 }
 </style
 </html>
+
+/*need: friendship group picture
+*/
