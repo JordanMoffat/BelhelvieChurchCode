@@ -28,8 +28,7 @@ jQuery(document).ready(function() {
 
                     <li><a href="#tab2">1-Up</a></li>
                     <li><a href="#tab3">Choir</a></li>
-                    <li><a href="#tab4">Committee</a></li>
-                    <li><a href="#tab5">Creche</a></li>
+                    <li><a href="#tab5">Crèche</a></li>
                      <li><a href="#tab6">Discovering Faith</a></li>
                      <li><a href="#tab7">Friendship Club</a></li>
                      <li><a href="#tab8">Kirk Klub</a></li>
@@ -54,6 +53,21 @@ jQuery(document).ready(function() {
 
         </div>
 
+		<div id="tab2" class="tab">
+            	<table style="width:100%">
+                    <tr>
+                    <td><h3>1-Up</h3></tr>
+                    </tr>
+                      <tr>
+                        <td class="text"><p>During the Sunday morning church service, young people in S1 – S3 meet together in the portacabin at 10.45am for some fun, some learning about our faith and some food ( always good if you haven’t had time to eat breakfast).  </p><p>We play games, explore passages from the Bible, and try to make sense of our faith in the 21st century. The autumn term usually starts with a residential at Teen Ranch near Dundee which is always great fun</p>
+						<p>Email <a href= "mailto:rhonamckeown@yahoo.co.uk?Subject=1-Up"> Mrs Rhona McKeown</a> or call 01358 742227</p>
+                                                          
+                    </td>
+                        <td><img src="https://raw.githubusercontent.com/JordanMoffat/BelhelvieChurchCode/master/1916951_1047010794867_933413_n.jpg" width="500" height="375" alt="Choir"></td>
+                      </tr>
+                    </table>
+        </div>
+		
         <div id="tab3" class="tab">
             	<table style="width:100%">
                     <tr>
@@ -62,48 +76,57 @@ jQuery(document).ready(function() {
                       <tr>
                         <td class="text"><p>The Choir meets in the church weekly on Wednesdays in preparation for worship on Sundays and it’s open to anyone who enjoys singing.</p>
                                                           <p> The men’s voice choir meets on occasional Thursdays throughout the year. Speak to Allan for the latest information. </p>
+														  <p>Email <a href ="allan.ritchie@btinternet.com?Subject=Choir">Allan Ritche</a> or call 01224 704386</p>
                     </td>
-                        <td><a data-flickr-embed="true"  href="https://www.flickr.com/photos/136426695@N08/20977987763/in/dateposted-public/" title="Choir"><img src="https://farm1.staticflickr.com/566/20977987763_bc9e3dd783.jpg" width="500" height="375" alt="Choir"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></td>
+                        <td><img src="https://raw.githubusercontent.com/JordanMoffat/BelhelvieChurchCode/master/Choir.jpg" width="500" height="375" alt="Choir"></td>
                       </tr>
                     </table>
         </div>
 
-        <div id="tab2" class="tab">
-            <p>Tab #3 content goes here!</p>
-            <p>Donec pulvinar neque sed semper lacinia. Curabitur lacinia ullamcorper nibh; quis imperdiet velit eleifend ac. Donec blandit mauris eget aliquet lacinia! Donec pulvinar massa interdum ri.</p>
-        </div>
-
-        <div id="tab4" class="tab">
-            <p>Tab #4 content goes here!</p>
-            <p>Donec pulvinar neque sed semper lacinia. Curabitur lacinia ullamcorper nibh; quis imperdiet velit eleifend ac. Donec blandit mauris eget aliquet lacinia! Donec pulvinar massa interdum risus ornare mollis. In hac habitasse platea dictumst. Ut euismod tempus hendrerit. Morbi ut adipiscing nisi. Etiam rutrum sodales gravida! Aliquam tellus orci, iaculis vel.</p>
-        </div>
 		<div id="tab5" class="tab">
-            <p>Tab #5 content goes here!</p>
-            <p>Donec pulvinar neque sed semper lacinia. Curabitur lacinia ullamcorper nibh; quis imperdiet velit eleifend ac. Donec blandit mauris eget aliquet lacinia! Donec pulvinar massa interdum risus ornare mollis. In hac habitasse platea dictumst. Ut euismod tempus hendrerit. Morbi ut adipiscing nisi. Etiam rutrum sodales gravida! Aliquam tellus orci, iaculis vel.</p>
+		<table>
+            <tr><td><h3>Crèche</h3></td>
+        </tr>
+          <tr>
+            <td class="text"><p>Belhelvie crèche gives parents the opportunity to enjoy the church service with the peace of mind that their children are being cared for. The crèche, located in the portacabin beside the Forsyth Hall provides a safe environment for children up to the age of 3 to play together and have some fun. </p> <p> A dedicated team of trusted helpers looks after and plays with the children every week during the Church service. All of our volunteers are PVG checked. The crèche is available every Sunday throughout the year and begins 15 minutes before the Church service. All welcome.</p>
+			
+<p> Email <a href = "mailto:4thegrange@googlemail.com?Subject=Creche"> Beverly Costello </a> or call 01358 741872</p>
+		   </td>
+          </tr>
+        </table>
         </div>
 		<div id="tab6" class="tab">
-            <p>Tab #6 content goes here!</p>
-            <p>Donec pulvinar neque sed semper lacinia. Curabitur lacinia ullamcorper nibh; quis imperdiet velit eleifend ac. Donec blandit mauris eget aliquet lacinia! Donec pulvinar massa interdum risus ornare mollis. In hac habitasse platea dictumst. Ut euismod tempus hendrerit. Morbi ut adipiscing nisi. Etiam rutrum sodales gravida! Aliquam tellus orci, iaculis vel.</p>
+		<table>
+		<tr>
+           <td><h3>Discovering Faith</h3></td>
+        </tr>
+          <tr>
+            <td class="text"><p>New to all of this? From time to time we host courses such as "Alpha" and "Discovering Christianity". These provide an opportunity to think more deeply about faith in a safe environment where questions are welcome. They’re also a good way to get to know people as we chat over a meal. Why not come along and think things through for yourself? </p>
+			<p>A couple of years ago we also ran a parenting course which was really appreciated by the folk in the parish, whether they came to church or not. It offered practical, common sense advice and support to parents. We plan to be running similar courses in the future relating to both parenting and relationships. Watch this space for more details.</p>
+							   
+<p> Email <a href = "mailto:pmckeown1@btconnect.com?Subject=Discovering%20Faith"> Rev Paul McKeown </a> or call 01358 742285</p>							   </td>
+          </tr>
+        </table>
         </div>
+		
 		<div id="tab7" class="tab">
 		<table style="width:100%">
         <tr>
-        <td><h3>Friendship Club</h3></tr>
+        <td><h3>Friendship Club</h3></td>
         </tr>
           <tr>
-            <td class="text"><p>For the past 35 years The Friendship Club has provided a meeting place for the residents of Belhelvie parish. Members are 50+ and meet in the lounge of Eigie House in Balmedie on alternate Tuesday afternoons from 2-4pm. A very varied programme is enjoyed which includes illustrated talks, musical entertainment, whist, dominoes, bingo, beetle drives and quizzes.
+            <td class="text"><p>For the past 35 years The Friendship Club has provided a meeting place for the residents of Belhelvie parish. Members are 50+ and meet in the lounge of Eigie House in Balmedie on alternate Tuesday afternoons from 2-4pm. A very varied programme is enjoyed which includes illustrated talks, musical entertainment, whist, dominoes, bingo, beetle drives and quizzes.</p>
 
-                               <p> A summer outing and a Christmas Party are also enjoyed, and our regular meetings always finish off with a welcome cup of tea and a biscuit, followed by a raffle.<p>We charge 50p per week and have a tuck shop, which makes a small profit.  The money we take in is used to pay for resources such as teaching materials, craft materials and equipment and prizes for the end of session Gift Service.  </p>
-</p>
-        </td>
-            <td><a data-flickr-embed="true"  href="https://www.flickr.com/photos/136426695@N08/21411010070/in/dateposted-public/" title="Kirk Klub 2009"><img src="https://farm1.staticflickr.com/645/21411010070_14aa4f4394.jpg" width="500" height="375" alt="Kirk Klub 2009"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></td>
+                               <p> A summer outing and a Christmas Party are also enjoyed, and our regular meetings always finish off with a welcome cup of tea and a biscuit, followed by a raffle.</p>
+<p> Email <a href = "mailto:margaret.murison@yahoo.co.uk?Subject=Friendship%20Club"> Margaret Murison </a> or call 01358 742285</p>							   </td>
           </tr>
         </table>
              </div>
+			 
 		<div id="tab8" class="tab">
 <table style="width:100%">
 <tr>
-<td><h3>Kirk Klub</h3></tr>
+<td><h3>Kirk Klub</h3></td>
 </tr>
   <tr>
     <td class="text"><p>The Kirk Klub meets each Thursday in The Forsyth Hall from 7.15 – 9.00 PM. We aim to help young people from age 10 upward learn about what it means to be a Christian today and to develop their own relationship with God.  We do this through discussion, bible study, games and activities.  </p>
@@ -111,34 +134,97 @@ jQuery(document).ready(function() {
 <p>We charge 50p per week and have a tuck shop, which makes a small profit.  The money we take in is used to pay for resources such as teaching materials, craft materials and equipment and prizes for the end of session Gift Service.  </p>
 
 <p>KK also go collecting for Christian Aid every year and finish up after a chilly night with chips at the Forsyth hall.  We have also had film and pizza nights, barbecues, trips to the cinema and to the panto.</p>
+<p> Email <a href = "mailto:daphne@denviewplus.com?Subject=Kirk%20Klub"> Daphne McWilliam</a> or call 01358 743469</p>
 </td>
-    <td><a data-flickr-embed="true"  href="https://www.flickr.com/photos/136426695@N08/21411010070/in/dateposted-public/" title="Kirk Klub 2009"><img src="https://farm1.staticflickr.com/645/21411010070_14aa4f4394.jpg" width="500" height="375" alt="Kirk Klub 2009"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></td>
+            <td title="Kirk Klub 2009"><img src="https://raw.githubusercontent.com/JordanMoffat/BelhelvieChurchCode/master/Kirk%20Klub%202009.jpg" width="500" height="375" alt="Kirk Klub 2009"></td>
   </tr>
 </table>
-			</div>
+	</div>
 		<div id="tab9" class="tab">
-            <p>Tab #9 content goes here!</p>
-            <p>Donec pulvinar neque sed semper lacinia. Curabitur lacinia ullamcorper nibh; quis imperdiet velit eleifend ac. Donec blandit mauris eget aliquet lacinia! Donec pulvinar massa interdum risus ornare mollis. In hac habitasse platea dictumst. Ut euismod tempus hendrerit. Morbi ut adipiscing nisi. Etiam rutrum sodales gravida! Aliquam tellus orci, iaculis vel.</p>
+           <table style="width:100%">
+<tr>
+<td><h3>Mainly Music</h3></td>
+</tr>
+  <tr>
+    <td class="text"><p>Mainly Music is a music and movement class for preschool children run from the Forsyth Hall on Tuesday afternoons from 1:15 – 2:30.</p>
+
+<p>We begin by enjoying our songs, actions and rhymes, before settling the children with a snack and toys and allowing parents and carers to enjoy the fabulous hospitality provided and time to chat.</p>
+
+<p>If you would like any more information on our group, either for attending or volunteering, please contact Jeanette Lamb</p>
+	<p> Email <a href = "jeanttelamb@btinternet.com?Subject=Mainly%20Music">Mrs Janette Lamb</a> or call 01358 742684</p>
+</td>	
+            <td title="Pastoral Care"><img src="https://github.com/JordanMoffat/BelhelvieChurchCode/blob/master/Mainly%20Music.jpg?raw=true" width="500" height="282" alt="Pastoral Care"></td>
+  </tr>
+</table>           
         </div>
 		<div id="tab10" class="tab">
-            <p>Tab #10 content goes here!</p>
-            <p>Donec pulvinar neque sed semper lacinia. Curabitur lacinia ullamcorper nibh; quis imperdiet velit eleifend ac. Donec blandit mauris eget aliquet lacinia! Donec pulvinar massa interdum risus ornare mollis. In hac habitasse platea dictumst. Ut euismod tempus hendrerit. Morbi ut adipiscing nisi. Etiam rutrum sodales gravida! Aliquam tellus orci, iaculis vel.</p>
-        </div>
+<table style="width:100%">
+<tr>
+<td><h3>Pastoral Care</h3></td>
+</tr>
+  <tr>
+    <td class="text"><p>The Pastoral Care team act as the pastoral care "conscience" of our congregation, helping us keep these issues to the fore in our thinking. In recent years we have organised and trained a Visiting Team who go out and visit elderly and infirm folk in the parish; we also helped organise a Parenting course and a musical afternoon for senior citizens. </p><p>The team run a monthly coffee morning and drop in called "Coffee Haven" which runs from 10-12 on the first Tuesday of the month in The Forsyth Hall. We also help out folk in particular times of need with meals for short spells via our Food Angels initiative.</p>
+	<p> Email <a href = "janettes23@btinternet.com?Subject=Pastrol%20Care">Mrs Janette Stevenson</a> or call 01358 742100</p>
+</td>	
+            <td title="Pastoral Care"><img src="https://raw.githubusercontent.com/JordanMoffat/BelhelvieChurchCode/master/Coffee%20Haven%20-%20Pastoral%20Care.JPG" width="500" height="375" alt="Pastoral Care"></td>
+  </tr>
+</table>           
+		   </div>
 		<div id="tab11" class="tab">
-            <p>Tab #12 content goes here!</p>
-            <p>Donec pulvinar neque sed semper lacinia. Curabitur lacinia ullamcorper nibh; quis imperdiet velit eleifend ac. Donec blandit mauris eget aliquet lacinia! Donec pulvinar massa interdum risus ornare mollis. In hac habitasse platea dictumst. Ut euismod tempus hendrerit. Morbi ut adipiscing nisi. Etiam rutrum sodales gravida! Aliquam tellus orci, iaculis vel.</p>
-        </div>
+		<table style="width:100%">
+<tr>
+<td><h3>Social Committee</h3></tr>
+</tr>
+  <tr>
+    <td class="text"><p>The Social Committee was set up to arrange social events to build community within and beyond the church and also raise funds to finance projects. Events include concerts, sponsored walks, coffee mornings, quiz nights, fashion shows, Burns Suppers, ceilidhs, etc. Members and non-members are encouraged to help and suggest new ideas to make Belhelvie a warm and welcoming Church.</p>
+			<p> Some of the men of the church have also been getting together to organise walks, such as the Laraig Grhu and Bennachie, as well as a trip to Edinburgh for the 6 Nations and the occasional curry night. </p>
+			<p> Email <a href="mcleishjean@yahoo.co.uk?Social%20Committee"> Jean McLeish</a> or call 0779 683 8849</p>
+</td>	
+		            <td title="Social Committee"><img src="https://raw.githubusercontent.com/JordanMoffat/BelhelvieChurchCode/master/Social%20Committte%20Event.jpg" width="500" height="375" alt="Social Committee Event"></td>
+  </tr>
+</table>        
+		</div>
 		<div id="tab12" class="tab">
-            <p>Tab #12 content goes here!</p>
-            <p>Donec pulvinar neque sed semper lacinia. Curabitur lacinia ullamcorper nibh; quis imperdiet velit eleifend ac. Donec blandit mauris eget aliquet lacinia! Donec pulvinar massa interdum risus ornare mollis. In hac habitasse platea dictumst. Ut euismod tempus hendrerit. Morbi ut adipiscing nisi. Etiam rutrum sodales gravida! Aliquam tellus orci, iaculis vel.</p>
-        </div>
+           <table style="width:100%">
+<tr>
+<td><h3>Thursday Housegroup</h3></tr>
+</tr>
+  <tr>
+    <td class="text"><p>Hosted by William and Linda Anderson in Balmedie. </p><p>Come and explore faith together through conversation, study, prayer and fellowship. Over the past few years we’ve studied a book on faith sharing called “You’re An Angel”, used the Church of  Scotland DVD “Threads” to reflect on our faith and worked our way through the letter to the Ephesians.</p><p> New members and visitors always welcome. This is a great way to get to know folk and go deeper in your faith and understanding. </p>
+
+			<p> Email <a href="wanderson@btinternet.com?Thursday%20Housegroup"> William Anderson</a> or call 01358 743077</p>
+</td>	
+		            <td title="Housegroup"><img src="https://github.com/JordanMoffat/BelhelvieChurchCode/blob/master/Housegroup.jpg?raw=true" width="500" height="375" alt="Thursday Housegroup"></td>
+  </tr>
+  </table>
+  </div>
+  
 		<div id="tab13" class="tab">
-            <p>Tab #13 content goes here!</p>
-            <p>Donec pulvinar neque sed semper lacinia. Curabitur lacinia ullamcorper nibh; quis imperdiet velit eleifend ac. Donec blandit mauris eget aliquet lacinia! Donec pulvinar massa interdum risus ornare mollis. In hac habitasse platea dictumst. Ut euismod tempus hendrerit. Morbi ut adipiscing nisi. Etiam rutrum sodales gravida! Aliquam tellus orci, iaculis vel.</p>
-        </div>
+            <table style="width:100%">
+<tr>
+<td><h3>Welcome Team</h3></tr>
+</tr>
+  <tr>
+    <td class="text"><p>The Welcome Team is a group which aims to promote friendship and hospitality within the life of the congregation. Teas and coffees are served in the  Hall after each service and this group serves the church in many other ways, including catering for small group work and Safari and Pot Luck suppers. Extra help and new ideas are always welcome! </p>
+			<p> Email <a href="christie@boghead.plus.com?Welcome%20Team"> Anne Christie</a> or call 01358 742435</p>
+</td>	
+  </tr>
+  </table>
+  </div>
 		<div id="tab14" class="tab">
-            <p>Tab #14 content goes here!</p>
-            <p>Donec pulvinar neque sed semper lacinia. Curabitur lacinia ullamcorper nibh; quis imperdiet velit eleifend ac. Donec blandit mauris eget aliquet lacinia! Donec pulvinar massa interdum risus ornare mollis. In hac habitasse platea dictumst. Ut euismod tempus hendrerit. Morbi ut adipiscing nisi. Etiam rutrum sodales gravida! Aliquam tellus orci, iaculis vel.</p>
+            	<table style="width:100%">
+<tr>
+<td><h3>Young Women's Housegroup</h3></tr>
+</tr>
+  <tr>
+    <td class="text"><p>The young women’s house group meets in the manse on occasional Friday mornings. We enjoy getting together to chat over coffee, share stories and talk about our faith. </p><p>We use various ways of doing this, sometimes through Bible study, books, DVD’s or just sharing together. Our children are welcome too and childcare is provided for those who have to bring their wee ones.</p>
+			
+			<p> Email <a href="rhonamckeown@yahoo.co.uk?Young%20Womens%20Housegroup"> Rhona McKeown</a> or call 01358 742227</p>
+</td>	
+		            <td title="Young Women's Housegroup"><img src="https://raw.githubusercontent.com/JordanMoffat/BelhelvieChurchCode/master/Young%20Women's%20Housegroup.JPG" width="500" height="333" alt="Young Women's Housegroup"></td>
+  </tr>
+</table>        
+		</div>
         </div>
     </div>
     </div>
@@ -257,8 +343,19 @@ body {
     color:#999999;
 
 }
+.tab h3{
+font-family:'Raleway';
+    font-size:23px;
+    color:#3399ff;
+}
+.tab p{
+vertical-align: top;
+font-family:'Raleway';
+    font-size:16;
+    color:#999999;
+}
 .table.text td{
-    width = 70%;
+    width: 70%;
 	font-family:'Raleway';
     font-size:14;
     color:#999999;
@@ -266,6 +363,3 @@ body {
 }
 </style
 </html>
-
-/*need: friendship group picture
-*/
