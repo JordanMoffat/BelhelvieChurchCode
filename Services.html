@@ -1,0 +1,249 @@
+<!DOCTYPE HTML>
+<HTML>
+<head>
+ <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Pacifico:400|Raleway:400|PT+Sans:400|Raleway:700">
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script>
+jQuery(document).ready(function() {
+    jQuery('.sub-menu a').on('click', function(e)  {
+        var currentAttrValue = jQuery(this).attr('href');
+
+        // Show/Hide Tabs
+        jQuery(currentAttrValue).show().siblings().hide();
+
+        e.preventDefault();
+    });
+});
+</script>
+</head>
+<body>
+ 	<div class="menu-wrap">
+    <nav class="menu">
+        <ul class="clearfix">
+
+            <li>
+                <a href="#">Services and Worship<span class="arrow">&#9660;</span></a>
+
+                <ul class="sub-menu">
+
+                    <li><a href="#tab2">Sunday Service</a></li>
+					<li><a href="#tab3">Baptism and Blessings</a></li>
+                    <li><a href="#tab4">Communions</a></li>
+                    <li><a href="#tab5">Marriage</a></li>
+                    <li><a href="#tab6">Membership</a></li>
+                </ul>
+            </li>
+        </ul>
+    </nav>
+
+</div>
+
+    <div>
+      <div class="tab-content">
+        <div id="tab1" class="tab active">
+            <p>Use the menu above to view more information about our services</p>			
+        </div>
+
+		<div id="tab2" class="tab">
+            	<table style="width:100%">
+                    <tr>
+                    <td><h3>Sunday Service</h3></td>
+                    </tr>
+                      <tr>
+                        <td class="text"><p><b>11am</b> (10am during summer holidays).</p><p> Belhelvie takes a traditional but informal approach to worship. If you come to visit you will hear contemporary preaching and be singing a mixture of old and new hymns from CH4. We use multimedia well and appropriately (less is more!) and have All-Age worship services spread throughout the year as well as the occasional evening service at Christmas and Eastertime. </p><p> We are developing a worship group to augment the traditional accompaniment of organ and piano. The choir and men’s voices choir are also regularly involved in worship and lay people share in the readings and prayers in the service. </p><p>Anyone and everyone is welcome to join us in worship each Sunday.</p>
+						<p> Email <a href="pmckeown1@btconnect.com?Sunday%20Worship"> Rev Paul McKeown</a> or call 01358 742227</p>
+                    </td>
+                        <td><img src="https://raw.githubusercontent.com/JordanMoffat/BelhelvieChurchCode/master/Aesthetic%20-%20Sunshine.jpg" width="500" height="376" alt="Choir"></td>
+                      </tr>
+                    </table>
+        </div>
+		
+        <div id="tab3" class="tab">
+            	<table style="width:100%">
+                    <tr>
+                    <td><h3>Baptisms and Blessings</h3></td>
+                    </tr>
+                      <tr>
+                        <td class="text"><p>The birth of a child is always an exciting time in family life and many want to mark the occasion formally in a church service. At Belhelvie we celebrate the gift of children in two complementary ways. For those who see themselves and their children bring around the church in the longer term, and would consider themselves people of faith, baptism may well be the way to go. Over three preparatory meetings, the minister will unpack with you your hopes for your child, and the role that faith has in our lives. </p><p>For those who simply want to celebrate the baby’s arrival with family and friends in a church context, a service of thanksgiving for the birth of the child is the way to go. </p><p>You can find out more about these services HERE (link to material somehow?), or contact <a href="pmckeown1@btconnect.com?Sunday%20Worship"> Rev Paul McKeown</a> (Tel: 01358 742227) </p>
+                    </td>
+                      </tr>
+                    </table>
+        </div>
+
+        <div id="tab4" class="tab">
+            <table style="width:100%">
+                    <tr>
+                    <td><h3>Communion</h3></td>
+                    </tr>
+                      <tr>
+                        <td class="text"><p>In the Church of Scotland, communion is open to anyone who loves God and wants to love him more. In recent tradition younger folk have been able to take communion from early secondary school age, after instruction. You are welcome to join us in these services which happen six times a year.</p>
+                    </td>
+                      </tr>
+                    </table>
+        </div>
+		<div id="tab5" class="tab">
+            <table style="width:100%">
+                    <tr>
+                    <td><h3>Marriage</h3></td>
+                    </tr>
+                      <tr>
+                        <td class="text"><p>You don’t have to be a member to be married at Belhelvie church – all we require is that you live within the parish, or have a strong connection to the congregation. The minister will usually meet with you a couple of times prior to the wedding to get to know you so the service is personal and meaningful for you. </p><p> Contact <a href="pmckeown1@btconnect.com?Marriage%20Enquiry"> Rev Paul McKeown</a> (Tel: 01358 742227) for more details</p>
+                    </td>
+                      </tr>
+                    </table>
+        </div>	
+		<div id="tab6" class="tab">
+            <table style="width:100%">
+                    <tr>
+                    <td><h3>Membership</h3></td>
+                    </tr>
+                      <tr>
+                        <td class="text"><p>For those wanting to join the church, there are several places to start. If you’re thinking of joining from elsewhere we have a short membership course you can take in an evening, but if you’re new to faith it’s worth taking your time to think things through. In that instance, it’s probably best just to come along to church in the meantime to get to know folk and join in with the next Inquirer’s Group when it comes along. </p><p> Contact <a href="pmckeown1@btconnect.com?Sunday%20Worship"> Rev Paul McKeown</a> (Tel: 01358 742227) to find out more</p>
+						
+						<p>The Church of Scotland’s membership vows are:<br>
+						<i>Believing in one God, Father, Son and Holy Spirit, and confessing Jesus Christ as your Saviour and Lord:<br>
+						Do you promise to join regularly with your fellow Christians in worship on the Lord’s Day? <br>
+						Do you promise to be faithful in reading the Bible and in prayer?<br>
+						Do you promise to give a fitting proportion of your time, talents and money for the Church’s work in the world?<br>
+						Do you promise, depending on the grace of God, to profess publicly your loyalty to Jesus Christ, to serve him in your daily work, and to walk in his ways all the days of your life? <br></i></p>
+                    </td>
+                      </tr>
+                    </table>
+        </div>	
+    </div>
+
+</body>
+<style>
+
+body {
+
+}
+  .tab-content {
+        padding:50px;
+        border-radius:3px;
+        background:#fff;
+    }
+
+        .tab {
+            display:none;
+        }
+
+        .tab.active {
+            display:block;
+        }
+
+.clearfix:after {
+    display:block;
+    clear:both;
+}
+
+/*----- Menu Outline -----*/
+.menu-wrap {
+    width:100%;
+    box-shadow:0px 1px 3px rgba(0,0,0,0.2);
+    background:#f1f1f1;
+}
+
+.menu {
+
+    margin:0px;
+}
+
+.menu li {
+    margin:0px;
+    list-style:none;
+    font-family:'Raleway';
+}
+
+.menu a {
+    transition:all linear 0.15s;
+    color:#3399ff;
+    text-decoration:none;
+}
+
+.menu li:hover > a, .menu .current-item > a {
+    text-decoration:none;
+    color:#666666;
+}
+
+.menu .arrow {
+    font-size:11px;
+    line-height:0%;
+}
+
+/*----- Top Level -----*/
+.menu > ul > li {
+    float:left;
+    display:inline-block;
+    position:relative;
+    font-size:23px;
+}
+
+.menu > ul > li > a {
+    padding:10px 10px;
+    display:inline-block;
+
+}
+
+.menu > ul > li:hover > a, .menu > ul > .current-item > a {
+
+}
+
+/*----- Bottom Level -----*/
+.menu li:hover .sub-menu {
+    z-index:1;
+    opacity:1;
+}
+
+.sub-menu {
+    width:100%;
+    padding:5px 0px;
+    position:absolute;
+    top:100%;
+    left:10px;
+    z-index:-1;
+    opacity:0;
+    transition:opacity linear 0.15s;
+    box-shadow:0px 2px 3px rgba(0,0,0,0.2);
+    background:#f1f1f1;
+}
+
+.sub-menu li {
+    display:block;
+    font-size:16px;
+}
+
+.sub-menu li a {
+    padding:10px 30px;
+    display:block;
+}
+
+.sub-menu li a:hover, .sub-menu .current-item a {
+
+}
+.tab{
+    font-family:'Raleway';
+    font-size:14;
+    color:#999999;
+
+}
+.tab h3{
+font-family:'Raleway';
+    font-size:23px;
+    color:#3399ff;
+}
+.tab p{
+vertical-align: top;
+font-family:'Raleway';
+    font-size:16;
+    color:#999999;
+}
+.table.text td{
+    width: 70%;
+	font-family:'Raleway';
+    font-size:14;
+    color:#999999;
+
+}
+</style
+</html>
